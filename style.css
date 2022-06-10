@@ -6,3 +6,6 @@ p
 h1{
     background-color: aqua;
 }
+p{
+    grid-template: none;
+}
